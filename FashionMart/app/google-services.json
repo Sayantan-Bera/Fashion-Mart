@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588061004112",
+    "project_id": "fashionmart-852a3",
+    "storage_bucket": "fashionmart-852a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588061004112:android:77bfd5a47380b603729c55",
+        "android_client_info": {
+          "package_name": "com.example.fashionmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588061004112-68ajsgccsdl5gdel49349vnd85p077f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8ZVPW0GvuUYT47KggpfYXwUE5dpZDanY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588061004112-68ajsgccsdl5gdel49349vnd85p077f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
